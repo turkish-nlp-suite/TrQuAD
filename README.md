@@ -6,7 +6,7 @@
 TrQuAD is Turkish SQuAD - Turkish translation of the SQuAD. The dataset can be downloaded from its devoted [HuggingFace repo](https://huggingface.co/datasets/turkish-nlp-suite/TrQuAD).
 The dataset is of version 1.1. - there are no empty answer strings. 
 
-More about the dataset preparation can be found in our [research paper]().
+More about the dataset preparation can be found in our [research paper](). For the dataset format and more information please visit the HF repo.
 
 ### Generating the benchmark
 
@@ -29,6 +29,7 @@ python3 run_qa.py \
   --overwrite_output_dir True
 ```
 
+The success metrics are same with original SQuAD, exact match and F1 scores. BERTurk achieved scores of `56.09/71.56`.
 
 ### Research paper and citation
 
