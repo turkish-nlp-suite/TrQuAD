@@ -1,8 +1,7 @@
-# TrQuAD - The Turkish SQuAD
-
 <img src="https://raw.githubusercontent.com/turkish-nlp-suite/.github/main/profile/trquadlogo.png"  width="30%" height="30%">
 
 
+# TrQuAD - The Turkish SQuAD
 
 TrQuAD is Turkish SQuAD - Turkish translation of the SQuAD. The dataset can be downloaded from its devoted [HuggingFace repo](https://huggingface.co/datasets/turkish-nlp-suite/TrQuAD).
 The dataset is of version 1.1. - there are no empty answer strings. 
