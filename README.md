@@ -29,7 +29,7 @@ python3 run_qa.py \
   --overwrite_output_dir True
 ```
 
-The success metrics are same with original SQuAD, exact match and F1 scores. BERTurk achieved scores of `56.09/71.56`.
+The success metrics are same with original SQuAD, exact match and F1 scores. BERTurk achieved scores of `66.59/77.79`.
 
 ### Research paper and citation
 
